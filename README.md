@@ -47,6 +47,7 @@
   - **適用性**：適合預算有限但希望簡單管理的實驗室，管理式主機提供完整服務但成本較高。
   - **影片介紹** : [Ghost Tutor](https://www.youtube.com/watch?v=58hbEjZPm4s)
 ![Ghost](/pic/ghost.png)
+![Ghost_sub](/pic/ghost_level.PNG)
 - **Drupal**：
   - **開源版本**：免費，共享主機起價 $2.99/月（例如 [Hostinger](https://www.hostinger.com/drupal-hosting)），管理式主機（如 [Acquia](https://www.acquia.com/)）從 $199/月到數千美元/月。
   - **適用性**：適合需要企業級功能的實驗室，但成本可能較高，特別是需要專業支持時。
