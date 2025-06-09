@@ -45,6 +45,7 @@
   - **管理式主機（Ghost(Pro)）**：起價 $9/月（Starter 計劃，500 名會員，1 名管理員），最高 $199/月（Business 計劃，10,000 名會員，無限管理員）。參考 [Ghost Pricing](https://ghost.org/pricing)。
   - **額外成本**：可能需要電子郵件服務（如 Mailgun，約 $0.80/千封）或 CDN（如 Cloudflare，免費至 $20/月）。
   - **適用性**：適合預算有限但希望簡單管理的實驗室，管理式主機提供完整服務但成本較高。
+  - **影片介紹** : [Ghost Tutor](https://www.youtube.com/watch?v=58hbEjZPm4s)
 ![Ghost](/pic/ghost.png)
 - **Drupal**：
   - **開源版本**：免費，共享主機起價 $2.99/月（例如 [Hostinger](https://www.hostinger.com/drupal-hosting)），管理式主機（如 [Acquia](https://www.acquia.com/)）從 $199/月到數千美元/月。
