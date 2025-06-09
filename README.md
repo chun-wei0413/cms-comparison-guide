@@ -40,23 +40,22 @@
 ## 比較分析
 
 ### 1. 價錢
-![Ghost](/pic/ghost.png)
 - **Ghost**：
   - **開源版本**：免費，需自行主機，伺服器成本約 $5-$20/月（例如 [DigitalOcean](https://www.digitalocean.com/)）。
   - **管理式主機（Ghost(Pro)）**：起價 $9/月（Starter 計劃，500 名會員，1 名管理員），最高 $199/月（Business 計劃，10,000 名會員，無限管理員）。參考 [Ghost Pricing](https://ghost.org/pricing)。
   - **額外成本**：可能需要電子郵件服務（如 Mailgun，約 $0.80/千封）或 CDN（如 Cloudflare，免費至 $20/月）。
   - **適用性**：適合預算有限但希望簡單管理的實驗室，管理式主機提供完整服務但成本較高。
-![Drupal](/pic/Drupal.png)
+![Ghost](/pic/ghost.png)
 - **Drupal**：
   - **開源版本**：免費，共享主機起價 $2.99/月（例如 [Hostinger](https://www.hostinger.com/drupal-hosting)），管理式主機（如 [Acquia](https://www.acquia.com/)）從 $199/月到數千美元/月。
   - **適用性**：適合需要企業級功能的實驗室，但成本可能較高，特別是需要專業支持時。
-![Joomla](/pic/Joomla.png)
+![Drupal](/pic/drupal.png)
 - **Joomla**：
   - **開源版本**：免費，共享主機起價 $2.54/月（例如 [Hostinger](https://www.hostinger.com/joomla-hosting)），高階主機（如 [Ionblade](https://www.ionblade.com/)）最高 $60/月。
   - **額外成本**：某些付費擴展或主題成本約 $10-$100，總體低於 Drupal。
   - **適用性**：適合預算有限且需要靈活性的實驗室，成本效益高。
-
-**結論**：Joomla 和 Drupal 的共享主機成本最低，Ghost 的管理式主機起價較高但提供完整服務。對於實驗室，Joomla 可能是最經濟的選擇，Ghost 適合簡單管理，Drupal 適合高階需求但成本較高。
+![Joomla](/pic/Joomla.png)
+- **結論**：Joomla 和 Drupal 的共享主機成本最低，Ghost 的管理式主機起價較高但提供完整服務。對於實驗室，Joomla 可能是最經濟的選擇，Ghost 適合簡單管理，Drupal 適合高階需求但成本較高。
 
 ### 2. 維護性
 - **Ghost**：
